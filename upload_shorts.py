@@ -143,8 +143,8 @@ def main():
     videos_to_upload = pending_videos[:3]
     
     schedule_slots = [ 
-        (13, 32),
-        (19, 11), 
+        (2, 32),
+        (6, 41), 
         (23, 47)   
     ]
 
